@@ -1,7 +1,7 @@
 from transformers import pipeline
 
 try:
-    # Load DeepSeek model for text generation
+    # Load gpt2 model for text generation
     predictor = pipeline("text-generation", model="gpt2")
 except Exception as e:
     print(f"Error loading model: {e}")
