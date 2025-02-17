@@ -1,2 +1,2 @@
 # NLP-nextwordprediction
-Find the next word using gpt2 model for NLP
+Python script using Hugging Face Transformers for text generation with GPT-2.
